@@ -1,0 +1,10 @@
+my notebook run on google collab
+
+Url for deployment :
+
+        Frontend : https://h8-balls-types-p2m2-khalis.herokuapp.com/
+
+        backend : https://h8-balls-backend.herokuapp.com/predict
+
+
+Link for dataset : https://www.kaggle.com/datasets/gpiosenka/balls-image-classification?select=class_dict.csv
